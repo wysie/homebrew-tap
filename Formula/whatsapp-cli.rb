@@ -1,9 +1,9 @@
 class WhatsappCli < Formula
   desc "WhatsApp from your terminal"
   homepage "https://github.com/Wysie/whatsapp-cli"
-  url "https://github.com/wysie/whatsapp-cli/archive/refs/tags/v0.2.1-wysie.5.tar.gz"
-  sha256 "b598b1d35dd3d597ebe61a249afd2a8fb32f03cf30e77fafc84ef8ee70ccd514"
-  version "0.2.1-wysie.5"
+  url "https://github.com/wysie/whatsapp-cli/archive/refs/tags/v0.2.1-wysie.6.tar.gz"
+  sha256 "54118d6b09198d6b55239b24e85247f1f9c65b932a1e2a3ecc4264f6f5403666"
+  version "0.2.1-wysie.6"
   license "MIT"
 
   depends_on "go" => :build
